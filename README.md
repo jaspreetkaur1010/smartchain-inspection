@@ -13,6 +13,7 @@ This project helps businesses predict product inspection outcomes and uncover hi
 - SQLite for simulating ingestion pipeline
 - Jupyter Notebook for EDA
 
+
 ## 🚀 Run Locally
 
 ```bash
